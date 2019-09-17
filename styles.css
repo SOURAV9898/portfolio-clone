@@ -1,0 +1,64 @@
+/* font-family: 'Ubuntu', sans-serif; */
+body{
+  background-color: #111111;
+}
+
+/* NAV BAR */
+.navbar-brand{
+  padding-left: 20%;
+  font-family: "Ubuntu-Bold", sans-serif;
+  color: white;
+}
+
+.navbar-nav{
+  margin-right: 20%;
+  font-family: "Ubuntu-Bold", sans-serif;
+}
+.nav-link{
+  color: white;
+}
+
+/* Description */
+
+.big-text{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 4rem;
+  color: white;
+  padding-top: 12%;
+  padding-left: 32%;
+  margin-bottom: 0;
+}
+
+.me{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1rem;
+  color: #727272;
+  padding-left: 34%;
+  margin-bottom: 0;
+
+}
+
+.btn{
+  position: absolute;
+  left: 45%;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+/* SOCIALS */
+
+.fa-cog{
+  color: white;
+  padding: 1%;
+  margin-top: 18%;
+  position: relative;
+  left: 43%;
+}
+
+/* Copyright */
+
+h2{
+font-family: 'Ubuntu', sans-serif;
+color: #727272;
+font-size: 0.8rem;
+padding-left: 37%;
+}
